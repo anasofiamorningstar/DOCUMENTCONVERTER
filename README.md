@@ -14,7 +14,11 @@ A powerful and free tool developed in Python for managing PDF and Office files w
 
 ## 🚀 Installation
 1. Clone the repository
+https://github.com/anasofiamorningstar/DOCUMENTCONVERTER.git
+
 2. Install dependencies:
 `pip install -r requirements.txt`
+
 3. Run:
 `python documentconverter.py`
+
